@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "img": "blackchair.png",
+        "name": "Крісло",
+        "description": ["Компактне та переносне.", "Можна працювати в офісі та вдома.", "Чорний – це стильно."],
+        "cost": 1000,
+        "android_model": "jelly.gltf",
+        "ios_model": "jelly.glb"
+    },
+    {
+        "id": 2,
+        "img": "furniture.png",
+        "name": "Тумба під телевізор", 
+        "description": ["Меблі готові до складання.", "Надається інструкція для збору.", "Комплект не включає телевізора."],
+        "cost": 5000,
+        "android_model": "furniture.gltf",
+        "ios_model": "furniture.glb"
+    },
+    {
+        "id": 3,
+        "img": "armchair.png",
+        "name": "Диван", 
+        "description": ["Мінімалістичний диван.", "Широке сидіння для кількох людей.", "М'які подушки."],
+        "cost": 3000,
+        "android_model": "armchair.gltf",
+        "ios_model": "armchair.glb"
+    }
+]
