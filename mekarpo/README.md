@@ -2,7 +2,7 @@
 
 1. Clone the repo.
    ```sh
-   git clone https://github.com/HelgaBK/CourseWork_1st_mag.git
+   git clone https://github.com/HelgaBK/CourseWork_1st_mag/tree/main/mekarpo.git
    ```
 2. Use npm install to install the dependencies.
     ```sh
